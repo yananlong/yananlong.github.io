@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yanan Long"
-  pronouns         : example: "he/they"  
+  pronouns         : "he/they"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chicago, IL, USA"
   employer         : "University of Chicago"
