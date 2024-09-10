@@ -1,12 +1,10 @@
 ---
 permalink: /
-title: "Yanan Long"
+title: "Welcome to my personal webiste!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my personal webiste!
-
-My name is Yanan Long (he/they). I am a data scientist and machine learning researcher, currently at the University of Chicago.
+I am a data scientist and machine learning researcher. I obtained by PhD from University of Chicago under [Andrey Rzhetsky](https://biologicalsciences.uchicago.edu/faculty/andrey-rzhetsky). 
