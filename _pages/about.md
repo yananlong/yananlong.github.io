@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist and machine learning researcher. I was most recently a research scientist at the University of Chicago. Prior to that, I obtained by PhD from University of Chicago under [Andrey Rzhetsky](https://biologicalsciences.uchicago.edu/faculty/andrey-rzhetsky). 
+I am a data scientist and machine learning researcher. I recently finished my position of research scientist at the University of Chicago. Prior to that, I obtained by PhD from at the same place under [Andrey Rzhetsky](https://biologicalsciences.uchicago.edu/faculty/andrey-rzhetsky). 
