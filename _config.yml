@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : yananlong # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,12 +75,15 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
+  book:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  workshop:
+    title: 'Workshop Papers'    
+  jourconf:
+    title: 'Journal Articles/Computer Science Conference Papers'
+  preprint:
+    title: 'Preprints'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
