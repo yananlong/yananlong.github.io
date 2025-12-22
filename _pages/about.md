@@ -16,6 +16,7 @@ Since 2023, I have been a core organizer at [Queer in AI](https://www.queerinai.
 **I am currently on both the industry and academic job markets for positions in data science, AI for science and/or ML engineering!**
 
 ## Updates
+- **2025-12**: Two Workshop Papers at NeurIPS!
 - **2025-06**: Co-organizing a CRAFT session at ACM FAccT in Athens, Greece. Come find me or my wonderful collaborators [Shiran Dudy](https://www.shirandudy.com/) and [Jan Simson](https://simson.io/) if you are attending FAccT!
 - **2025-05**: Co-organizing the [Queer in AI workshop](https://www.queerinai.com/naacl-2025) at NAACL in Albuquerque, NM, USA. Excited to be part of the first ever archival QinAI workshop!
 - **2025-04**: Presenting a poster on applying Bayesian statistics to AI model evaluations at the STAIG workshop at ACM CHI in Yokohama, Japan. Read the [position paper](https://arxiv.org/abs/2504.15211).
