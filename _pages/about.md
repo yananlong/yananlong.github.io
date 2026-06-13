@@ -16,6 +16,12 @@ Since 2023, I have been a core organizer at [Queer in AI](https://www.queerinai.
 **I am currently on both the industry and academic job markets for positions in data science, AI for science and/or ML engineering!**
 
 ## Updates
+- **2026-07**: Two main-conference papers and one workshop paper at ICML 2026: [Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://doi.org/10.48550/arXiv.2511.05613), [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://doi.org/10.48550/arXiv.2602.16763), and Bayesian decision audits for frontier AI evaluations at the ICML 2026 CTB and HT workshops.
+- **2026-06**: New preprint: [Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://doi.org/10.48550/arXiv.2606.09809).
+- **2026-06**: Two papers, one tutorial, and one CRAFT session at ACM FAccT 2026, including work on FAccT community governance, grassroots AI policy engagement, community-governed AI evaluation infrastructure, and LGBTQIA2S+ algorithmic harms.
+- **2026-04**: Workshop paper at ICLR 2026 P-AGI: [Participatory Governance for AGI Societal Impact: A Case Study of AI Ethics Community Reflexivity](https://openreview.net/forum?id=PQvhLkWyxb).
+- **2026-04**: Gave the talk "Renewal Prompts for Relationship-Centered Care with AI" at the CHI 2026 workshop [Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare](https://chi2026.acm.org/workshops/accepted/).
+- **2026-01**: Workshop paper at AAAI 2026 MURE: [Embracing Ambiguity: Bayesian Nonparametrics and Stakeholder Participation for Ambiguity-Aware Safety Evaluation](https://doi.org/10.48550/arXiv.2504.15211).
 - **2025-12**: Two Workshop Papers at NeurIPS!
 - **2025-06**: Co-organizing a CRAFT session at ACM FAccT in Athens, Greece. Come find me or my wonderful collaborators [Shiran Dudy](https://www.shirandudy.com/) and [Jan Simson](https://simson.io/) if you are attending FAccT!
 - **2025-05**: Co-organizing the [Queer in AI workshop](https://www.queerinai.com/naacl-2025) at NAACL in Albuquerque, NM, USA. Excited to be part of the first ever archival QinAI workshop!
