@@ -6,6 +6,6 @@ permalink: /publication/2026-taking-stock-at-facct
 excerpt: ''
 date: 2026-04-21
 venue: 'ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
-paperurl: 'https://arxiv.org/abs/2604.16224'
+paperurl: 'https://doi.org/10.1145/3805689.3812270'
 citation: ''
 ---
