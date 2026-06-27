@@ -13,7 +13,9 @@ My research mainly focuses on ML for scientific applications, in particular to b
 
 Since 2023, I have been a core organizer at [Queer in AI](https://www.queerinai.com/).
 
-**I am currently on both the industry and academic job markets for positions in data science, AI for science and/or ML engineering!**
+<!-- **I am currently on both the industry and academic job markets for positions in data science, AI for science and/or ML engineering!** -->
+
+[Consulting](https://stickflux.com/) through StickFlux Labs.
 
 ## Updates
 - **2026-07**: Two main-conference papers and one workshop paper at ICML 2026: [Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://doi.org/10.48550/arXiv.2511.05613), [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://doi.org/10.48550/arXiv.2602.16763), and Bayesian decision audits for frontier AI evaluations at the ICML 2026 CTB and HT workshops.
