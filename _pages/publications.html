@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<p>Conference and journal papers, workshop contributions and preprints are listed separately. The 2025 STAIG and 2026 MURE entries are different versions of one arXiv record.</p>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -31,6 +33,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 

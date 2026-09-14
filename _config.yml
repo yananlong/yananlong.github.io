@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Personal Page of Yanan Long"
 title_separator          : "-"
 name                     : &name "Yanan Long"
-description              : &description "personal description"
+description              : &description "Yanan Long researches AI evaluation, Bayesian statistics and participatory AI governance, with a background in biomedical machine learning."
 url                      : https://yananlong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yanan Long"
   pronouns         : "he/they"  
-  bio              : "Research Scientist"
-  location         : "Chicago, IL, USA"
-  employer         : "University of Chicago"
+  bio              : "ML researcher | AI evaluation"
+  location         : ""
+  employer         : "StickFlux Labs"
   uri              : # URL
   email            : "ylong@uchicago.edu" 
 
@@ -75,12 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  book:
-    title: 'Books'
-  workshop:
-    title: 'Workshop Papers'    
   jourconf:
-    title: 'Journal Articles/Computer Science Conference Papers'
+    title: 'Journal and Conference Papers'
+  workshop:
+    title: 'Workshop Papers'
   preprint:
     title: 'Preprints'
   

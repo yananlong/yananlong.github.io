@@ -1,5 +1,10 @@
 ---
 title: "News"
 permalink: /news/
-layout: posts
+layout: single
+author_profile: true
 ---
+
+Research publications, presentations and community activities.
+
+{% include news-updates.md %}

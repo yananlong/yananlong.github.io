@@ -9,3 +9,5 @@ venue: 'ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
 paperurl: 'https://doi.org/10.1145/3805689.3806765'
 citation: ''
 ---
+
+[Open-access preprint](https://arxiv.org/abs/2606.19816).
