@@ -76,9 +76,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   jourconf:
-    title: 'Journal and Conference Papers'
-  archival_workshop:
-    title: 'Archival Workshop Proceedings'
+    title: 'Journals, Computer Science Conferences & Archival Workshop Proceedings'
   workshop:
     title: 'Workshop Papers'
   preprint:
