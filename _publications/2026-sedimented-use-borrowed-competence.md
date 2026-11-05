@@ -1,7 +1,7 @@
 ---
 title: "Sedimented Use and Borrowed Competence: A Relational Framework for Language Models"
 collection: publications
-category: archival_workshop
+category: jourconf
 permalink: /publication/2026-sedimented-use-borrowed-competence
 excerpt: ''
 date: 2026-10-01
