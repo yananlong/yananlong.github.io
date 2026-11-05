@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Personal Page of Yanan Long"
 title_separator          : "-"
 name                     : &name "Yanan Long"
-description              : &description "Yanan Long researches AI evaluation, Bayesian statistics and participatory AI governance, with a background in biomedical machine learning."
+description              : &description "Yanan Long researches AI evaluations, Bayesian statistics, Trustworthy AI, AI for Science, including biomedical machine learning and language-model understanding."
 url                      : https://yananlong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -77,6 +77,8 @@ author:
 publication_category:
   jourconf:
     title: 'Journal and Conference Papers'
+  archival_workshop:
+    title: 'Archival Workshop Proceedings'
   workshop:
     title: 'Workshop Papers'
   preprint:
