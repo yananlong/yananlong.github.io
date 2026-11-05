@@ -9,7 +9,7 @@ redirect_from:
 
 [Download my CV (PDF)](/files/CV_Yanan_Long.pdf) · PDF last updated September 2026; [updated CV source on GitHub](https://github.com/yananlong/CV) includes November 2026 research news
 
-I am a machine learning researcher and consulting CTO working on AI evaluation, Bayesian statistics, language-model understanding and biomedical ML. My research spans benchmark validity, evaluation reporting, uncertainty quantification and participatory AI governance.
+I am a machine learning researcher and consulting CTO. **Research areas:** AI evaluations, Bayesian statistics, Trustworthy AI, AI for Science. My research spans benchmark validity, evaluation reporting, uncertainty quantification and participatory AI governance.
 
 ## Experience
 
@@ -37,7 +37,7 @@ Biomedical data science and machine learning, including frailty prediction from 
 
 ## Publications
 
-My [October 2026 LUHME workshop paper](https://aclanthology.org/2026.luhme-1.26/), *Sedimented Use and Borrowed Competence*, develops a relational framework for language-model competence and evaluation.
+My [October 2026 archival LUHME workshop paper](https://aclanthology.org/2026.luhme-1.26/), *Sedimented Use and Borrowed Competence*, develops a relational framework for language-model competence and evaluation.
 
 See the [publication list](/publications/) for papers, workshop contributions and preprints, including two ICML 2026 papers on social-impact evaluation reporting and benchmark saturation, two ACM FAccT 2026 papers on participatory governance, and the *Evaluation Cards* preprint.
 
