@@ -43,6 +43,8 @@ The following public publications follow my academic CV, with links to the publi
 
 - [Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809). Avijit Ghosh, Anka Reuel, Jenny Chim, Yanan Long and collaborators. **NeurIPS 2026, Evaluations & Datasets Track (Spotlight; accepted).** Accepted as a Spotlight on 25 September 2026. Author list abbreviated; linked version is the arXiv preprint.
 
+- [Sedimented Use and Borrowed Competence: A Relational Framework for Language Models](https://aclanthology.org/2026.luhme-1.26/). Yanan Long. **Proceedings of LUHME 2026 (ACL Anthology).** Archival workshop proceedings, October 2026, pp. 389-399. Relational evaluation of language-model competence using discriminant interventions and explicit system boundaries.
+
 - [Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://arxiv.org/abs/2511.05613). Anka Reuel, Avijit Ghosh, Jenny Chim, Yanan Long and collaborators. **ICML 2026.** Study of 186 first-party release reports and 248 third-party evaluation sources. Author list abbreviated.
 
 - [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763). Mubashara Akhtar, Anka Reuel, Yanan Long and collaborators. **ICML 2026.** Study of saturation across 60 language-model benchmarks. Author list abbreviated.
@@ -50,8 +52,6 @@ The following public publications follow my academic CV, with links to the publi
 - ["Taking Stock at FAccT": Using Participatory Design to Co-Create a Vision for the Fairness, Accountability and Transparency Community](https://doi.org/10.1145/3805689.3812270). Shiran Dudy, Jan Simson and Yanan Long. **ACM FAccT 2026.** Participatory design for research-community governance.
 
 - [Challenges to Grassroots Organization Engagement with AI Policy](https://arxiv.org/abs/2606.19816). Carter Buckner, Jennifer Mickel, Yanan Long and collaborators. **ACM FAccT 2026.** Author list abbreviated.
-
-- [Sedimented Use and Borrowed Competence: A Relational Framework for Language Models](https://aclanthology.org/2026.luhme-1.26/). Yanan Long. **Proceedings of LUHME 2026 (ACL Anthology).** Archival workshop proceedings, October 2026, pp. 389-399. Relational evaluation of language-model competence using discriminant interventions and explicit system boundaries.
 
 - [Queer In AI: A Case Study in Community-Led Participatory AI](https://doi.org/10.1145/3593013.3594134). Organizers of Queer in AI (including Yanan Long). **ACM FAccT 2023.** Best Paper Award.
 
