@@ -41,7 +41,7 @@ The following public publications follow my academic CV, with links to the publi
 
 ### Journals, Computer Science Conferences & Archival Workshop Proceedings
 
-- [Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809). Avijit Ghosh\*, Anka Reuel\*, Jenny Chim\*, Wm. Matthew Kennedy\*, Srishti Yadav, Jennifer Mickel, Yanan Long, Andrew Tran and collaborators. **NeurIPS 2026, Evaluations & Datasets Track (Spotlight; accepted).** Accepted as a Spotlight on 25 September 2026. asterisks mark first authors; Srishti Yadav, Jennifer Mickel, Yanan Long and Andrew Tran are designated top contributors. Author list abbreviated; linked version is the arXiv preprint.
+- [Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809). Avijit Ghosh\*, Anka Reuel\*, Jenny Chim\*, Wm. Matthew Kennedy\*, Srishti Yadav, Jennifer Mickel, Yanan Long, Andrew Tran and collaborators. **NeurIPS 2026, Evaluations & Datasets Track (Spotlight; accepted).** Accepted as a Spotlight on 25 September 2026. Asterisks mark first authors; Srishti Yadav, Jennifer Mickel, Yanan Long and Andrew Tran are designated top contributors. Author list abbreviated; linked version is the arXiv preprint.
 
 - [Sedimented Use and Borrowed Competence: A Relational Framework for Language Models](https://aclanthology.org/2026.luhme-1.26/). Yanan Long. **Proceedings of LUHME 2026 (ACL Anthology).** Archival workshop proceedings, October 2026, pp. 389-399. Relational evaluation of language-model competence using discriminant interventions and explicit system boundaries.
 
